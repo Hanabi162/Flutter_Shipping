@@ -3,7 +3,7 @@
 Flutter_Shipping is an application developed using Flutter for managing shipping. It includes the following main features:
 
 ## Main Features
-- **Track Shipment Status:** Allows you to track the status of shipments and receive real-time updates.
+- **Track Container Rental Status** Allows you to check the status of container rentals and receive real-time updates.
 - **Calculate Shipping Costs:** Calculates shipping costs based on the distance and weight of the parcel.
 - **Manage User Information:** Records and manages users' personal information.
 
